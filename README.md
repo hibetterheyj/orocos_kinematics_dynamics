@@ -1,4 +1,14 @@
-# Kinematics and Dynamics Library
+# `pykdl_conda` branch
+
+> make `PyKDL` installed in conda environment
+
+## My guide
+
+**Please check [pykdl_installation_guide.md](./pykdl_installation_guide.md)!**
+
+- ref: https://github.com/orocos/orocos_kinematics_dynamics/commit/364596e866e5569f9312967a447f9afdfc1099f6
+
+## Kinematics and Dynamics Library
 
 [![CI](https://github.com/orocos/orocos_kinematics_dynamics/workflows/CI/badge.svg)](https://github.com/orocos/orocos_kinematics_dynamics/actions)
 
